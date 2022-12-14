@@ -25,7 +25,7 @@ async function tommy() {
           fullName: "Abi Putra P",
           hobby: "Turu",
           region: "Indonesia",
-          birthday: "April - 24"
+          birthday: "April - 25"
         },
         social: {
           youtube: "https://www.youtube.com/@AbiDev11",
